@@ -1,0 +1,27 @@
+0001/01/01 00:00:00.000 -1 -1 Info  --------- beginning of main
+2024/08/28 00:07:05.401 5322 5353 Info Unity Banner is requested
+2024/08/28 00:07:06.190 5322 5331 Info estyandexbanner Background concurrent mark compact GC freed 78074(4712KB) AllocSpace objects, 29(1216KB) LOS objects, 75% free, 12MB/50MB, paused 674us,1.579ms total 168.137ms
+2024/08/28 00:07:06.400 5322 5322 Debug CompatibilityChangeReporter Compat change id reported: 289878283; UID 10549; state: DISABLED
+2024/08/28 00:07:06.415 5322 5505 Debug CompatibilityChangeReporter Compat change id reported: 210923482; UID 10549; state: ENABLED
+2024/08/28 00:07:06.415 5322 5505 Debug CompatibilityChangeReporter Compat change id reported: 63938206; UID 10549; state: DISABLED
+2024/08/28 00:07:06.455 5322 5505 Debug CompatibilityChangeReporter Compat change id reported: 171228096; UID 10549; state: ENABLED
+2024/08/28 00:07:06.470 5322 5322 Info YandexAds [Integration] Ad type banner was integrated successfully
+2024/08/28 00:07:06.492 5322 5505 Debug CompatibilityChangeReporter Compat change id reported: 303326708; UID 10549; state: DISABLED
+2024/08/28 00:07:06.570 5322 5353 Info Unity HandleAdLoaded event received
+2024/08/28 00:07:06.602 5322 5353 Info Unity HandleImpression event received with data: {"currency":"RUB","revenueUSD":"0.000044267","precision":"estimated","revenue":"0.003548737","requestId":"1724792824565740-202649927133620793400358-production-app-host-vla-pcode-397","blockId":"demo-banner-yandex","adType":"banner","ad_unit_id":"demo-banner-yandex","network":{"name":"Yandex","adapter":"Yandex","ad_unit_id":"demo-banner-yandex"}}
+2024/08/28 00:07:09.156 5322 5358 Debug TrafficStats tagSocket(167) with statsTag=0x378928b9, statsUid=-1
+2024/08/28 00:07:12.121 5322 5353 Debug estyandexbanner PlayerBase::stop() from IPlayer
+2024/08/28 00:07:12.121 5322 5353 Debug AudioTrack stop(3201): called with 745088 frames delivered
+2024/08/28 00:07:12.145 5322 5322 Debug VRI[UnityPlayerActivity] visibilityChanged oldVisibility=true newVisibility=false
+2024/08/28 00:07:17.105 5322 5353 Error gralloc4 ERROR: Format allocation info not found for format: 3b
+2024/08/28 00:07:17.105 5322 5353 Error gralloc4 ERROR: Format allocation info not found for format: 0
+2024/08/28 00:07:17.105 5322 5353 Error gralloc4 Invalid base format! req_base_format = (<unrecognized format> 0x0), req_format = (<unrecognized format> 0x3b), type = 0x0
+2024/08/28 00:07:17.105 5322 5353 Error gralloc4 ERROR: Unrecognized and/or unsupported format (<unrecognized format> 0x3b) and usage (CPU_READ_NEVER|CPU_WRITE_NEVER|GPU_TEXTURE|GPU_RENDER_TARGET|COMPOSER_OVERLAY 0xb00)
+2024/08/28 00:07:17.105 5322 5353 Error gralloc4 ERROR: Format allocation info not found for format: 3b
+2024/08/28 00:07:17.105 5322 5353 Error gralloc4 ERROR: Format allocation info not found for format: 0
+2024/08/28 00:07:17.105 5322 5353 Error gralloc4 Invalid base format! req_base_format = (<unrecognized format> 0x0), req_format = (<unrecognized format> 0x3b), type = 0x0
+2024/08/28 00:07:17.105 5322 5353 Error gralloc4 ERROR: Unrecognized and/or unsupported format (<unrecognized format> 0x3b) and usage (CPU_READ_NEVER|CPU_WRITE_NEVER|GPU_TEXTURE|GPU_RENDER_TARGET|COMPOSER_OVERLAY 0xb00)
+2024/08/28 00:07:17.118 5322 5353 Verbose SwappyVk SwappyVk initialized for VkDevice 0xb1930980 using VK_GOOGLE_display_timing on Android
+2024/08/28 00:07:17.118 5322 5353 Info SwappyVk Returning refresh duration of 11111111 nsec (approx 90.000001 Hz)
+2024/08/28 00:07:17.131 5322 5322 Debug MediaRouter onRestoreRoute() : route=RouteInfo{ name=??????????????, description=null, status=null, category=RouteCategory{ name=?????????????? types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+2024/08/28 00:07:17.131 5322 5322 Verbose MediaRouter Selecting route: RouteInfo{ name=??????????????, description=null, status=null, category=RouteCategory{ name=?????????????? types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
